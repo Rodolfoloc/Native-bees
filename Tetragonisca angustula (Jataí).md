@@ -1,19 +1,19 @@
 ![card-24-Tetragonisca-angustula](https://github.com/Rodolfoloc/Native-bees/assets/81366236/479e90d9-60d6-4177-b1f7-e8c406bb3110)
 
-
 ctrl+click to open the links in new tabs.
 
-[001](https://drive.google.com/drive/folders/13JjrDtxryl7kusQqPq8Sycpg_bzMa_Mp?usp=sharing)
 
-To do:
+[001](https://drive.google.com/drive/folders/13JjrDtxryl7kusQqPq8Sycpg_bzMa_Mp?usp=sharing) - Horto Parque dos Contos: Ouro Preto, MG, Brazil
+![Horto](https://github.com/Rodolfoloc/Native-bees/assets/81366236/d3c0ef2d-3c10-467e-9f04-0645a41bb3c7)
+<div align="center">Geographical coordinates obtained from Google: (-20.381099, -43.506333).</div>
+<div align="center">Natural hive in an urban environment.</div>
 
-  . description
 
-[002](https://drive.google.com/drive/folders/1TG11A1j__ldhB1i6AFrAUCRDsM3_Np0O?usp=sharing)
+[002](https://drive.google.com/drive/folders/1TG11A1j__ldhB1i6AFrAUCRDsM3_Np0O?usp=sharing) - Sítio São Lázaro: Santa Rita de Ouro Preto, MG, Brazil
+![SL](https://github.com/Rodolfoloc/Native-bees/assets/81366236/235e1893-b608-4072-bdc0-b3c1a38d0aaf)
+<div align="center">Geographical coordinates obtained from Google: (-20.502591, -43.520515).</div>
+<div align="center">Natural hive in an rural environment.</div>
 
-To do:
-
-  . description
 
 [003](https://drive.google.com/drive/folders/1VUdVn4uCYXTtQsT5B1GDG956Dbpy1b05?usp=sharing)
 
