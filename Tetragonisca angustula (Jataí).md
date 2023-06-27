@@ -2,8 +2,9 @@
   <img width="500" height="500" src="https://github.com/Rodolfoloc/Native-bees/assets/81366236/479e90d9-60d6-4177-b1f7-e8c406bb3110">
 </p>
 
-ctrl+click to open the links in new tabs.
-
+<p>
+<div align="center">ctrl+click to open the links in new tabs</div>
+</p>
 
 [001](https://drive.google.com/drive/folders/13JjrDtxryl7kusQqPq8Sycpg_bzMa_Mp?usp=sharing) - Horto Parque dos Contos: Ouro Preto, MG, Brazil
 <p align="center">
@@ -31,6 +32,7 @@ ctrl+click to open the links in new tabs.
   <img width="600" height="300" src="https://github.com/Rodolfoloc/Native-bees/assets/81366236/7be08161-70de-4231-86cf-6908c16beee4">
   <div align="center">Geographical coordinates obtained from Google: (-20.345266, -43.608529).</div>
   <div align="center">Artificial beehive in a rural environment.</div>
+</p>
 
 [005](https://drive.google.com/drive/folders/14Iq7187gmyQfj_isKm1NV7VSd8Lpbt4O?usp=sharing) - Sítio Bela Vista: Cachoeira do Campo, MG, Brazil
 <p align="center">
