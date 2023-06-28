@@ -1,7 +1,10 @@
+<div align="center">ctrl+click to open the links in new tabs</div>
+
 [YOLOv8x_Jataí.pt](https://drive.google.com/file/d/1VzPXgo2XhLKxskS0vg8JI6EMvwo4uVat/view?usp=sharing)
-<br>
+
 [hyperparameters](https://drive.google.com/file/d/14rRYKypxvL_RcIB19hprxxsUEvSO6VUr/view?usp=sharing)
-<br>
+
+
 <p align="center">
   <img width="800" height="400" src="https://github.com/Rodolfoloc/Native-bees/assets/81366236/7b701012-ff6b-4886-be22-b44f6703be61">
   <div align="center">Training results.</div>
