@@ -1,0 +1,12 @@
+001
+![001](https://github.com/Rodolfoloc/Native-bees/assets/81366236/fdaaee64-b2c0-4865-ba93-2fdf34684b7e)
+002
+![002](https://github.com/Rodolfoloc/Native-bees/assets/81366236/3d68b820-7203-4171-8119-96be8877cb7c)
+003
+![003](https://github.com/Rodolfoloc/Native-bees/assets/81366236/36aca880-36e0-43c4-bc7d-49a8554b6214)
+004
+![004](https://github.com/Rodolfoloc/Native-bees/assets/81366236/73704eee-2ebd-4a85-b03d-86c4b61dc988)
+005
+![005](https://github.com/Rodolfoloc/Native-bees/assets/81366236/d81ef8d1-7383-419e-9762-a14e84372bdd)
+006
+![006](https://github.com/Rodolfoloc/Native-bees/assets/81366236/3d0fc6d6-4362-47e2-a87f-18e512567f1c)
