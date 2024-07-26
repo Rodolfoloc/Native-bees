@@ -10,3 +10,25 @@ https://zenodo.org/records/10439007
 </p>
 
 <p>To learn how to code for free, please visit <a href="https://www.freecodecamp.org/learn" target="_blank">freeCodeCamp.org</a></p>
+<a target="_blank" rel="noopener" href="https://devdocs.io/html/element/heading_elements">DevDocs documentation</a>
+
+<a href="https://devdocs.io/html/element/heading_elements" target="_blank">DevDocs documentation</a>
+
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+
+
+
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
+
+<p>If you set the target attribute to "_blank", the link will open in a new browser window or a new tab.</p>
+
+</body>
+
+<a href="https://google.com" target="blank">Google Link</a>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+    $('a[rel="external"]').attr('target', '_blank');
+</script>
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
