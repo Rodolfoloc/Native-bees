@@ -8,3 +8,5 @@ https://zenodo.org/records/10439007
   <div align="center">Geographical coordinates obtained from Google: (-20.502591, -43.520515).</div>
   <div align="center">Natural beehive in an rural environment.</div>
 </p>
+
+<p>To learn how to code for free, please visit <a href="https://www.freecodecamp.org/learn" target="_blank">freeCodeCamp.org</a></p>
